@@ -1,0 +1,15 @@
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\users\Client.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\trainer\DeleteTrainerServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\dao\ClientDAO.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\trainer\UpdateTrainerServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\enums\ABONEMENT_TYPE.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\users\Trainer.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\dao\MySQLClientDAO.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\entities\Exercise.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\entities\ClientCard.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\model\entities\Training.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\trainer\CreateTrainerServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\trainer\ShowTrainersServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\client\UpdateClientServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\client\ShowClientsServlet.java
+H:\ForEPAM\Project\SportsClub\src\main\java\com\t1ne\servlets\client\CreateClientServlet.java

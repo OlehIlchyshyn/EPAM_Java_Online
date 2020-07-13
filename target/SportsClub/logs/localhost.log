@@ -1,0 +1,7 @@
+2020-05-10 11:48:17,416 [http-nio-8080-exec-4] ERROR com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] WARN  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] INFO  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] INFO  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] INFO  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] INFO  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
+2020-05-10 11:48:17,432 [http-nio-8080-exec-4] INFO  com.t1ne.servlets.client.ShowClientsServlet- Got clients info
