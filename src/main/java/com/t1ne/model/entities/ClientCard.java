@@ -15,6 +15,26 @@ public class ClientCard {
         this.cardId = counter++;
     }
 
+    public int getCardId() {
+        return cardId;
+    }
+
+    public void setCardId(int cardId) {
+        this.cardId = cardId;
+    }
+
+    public ABONEMENT_TYPE getAbonementType() {
+        return abonementType;
+    }
+
+    public void setAbonementType(ABONEMENT_TYPE abonementType) {
+        this.abonementType = abonementType;
+    }
+
+    public void setDueDate(Date dueDate) {
+        this.dueDate = dueDate;
+    }
+
     public void setAbonement(ABONEMENT_TYPE abonementType) {
         Calendar cal = Calendar.getInstance();
         switch (abonementType) {
